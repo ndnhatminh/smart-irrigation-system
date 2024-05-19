@@ -1,0 +1,9 @@
+*.pptx
+
+.vscode
+
+gateway/__pycache__
+gateway/test.py
+gateway/test2.py
+.idea/
+
